@@ -15,9 +15,8 @@ try:
     #browser.execute_script("alert('Hello!');")
     #alert = browser.switch_to.alert
     #alert.accept()
-    #time.sleep(10)
+    #time.sleep(5)
     #alert.accept()
-
 
     #browser.execute_script("prompt();")
     #alert = browser.switch_to.alert
