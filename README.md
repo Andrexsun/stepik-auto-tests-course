@@ -2,5 +2,12 @@
 homework
 
 
-"git add file" command allows us to track on the file.
-
+Common Git Commands
+git init.
+git add.
+git commit.
+git status.
+git config.
+git branch.
+git checkout.
+git merge.
